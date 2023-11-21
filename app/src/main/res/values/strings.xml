@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Demo Application</string>
+    <string name="login_page_text">login_student</string>
+    <string name="login_button_text">login_button</string>
+    <string name="signup_button_text">signup_button</string>
 </resources>
